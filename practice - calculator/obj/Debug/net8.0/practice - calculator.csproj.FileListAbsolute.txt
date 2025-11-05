@@ -1,0 +1,14 @@
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\bin\Debug\net8.0\practice - calculator.exe
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\bin\Debug\net8.0\practice - calculator.deps.json
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\bin\Debug\net8.0\practice - calculator.runtimeconfig.json
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\bin\Debug\net8.0\practice - calculator.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\bin\Debug\net8.0\practice - calculator.pdb
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\practice - calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\practice - calculator.AssemblyInfoInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\practice - calculator.AssemblyInfo.cs
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\practice - calculator.csproj.CoreCompileInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\practice - calculator.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\refint\practice - calculator.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\practice - calculator.pdb
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\practice - calculator.genruntimeconfig.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\ref\practice - calculator.dll

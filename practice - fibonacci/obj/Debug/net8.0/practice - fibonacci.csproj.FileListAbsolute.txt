@@ -1,0 +1,14 @@
+C:\Users\noush\source\repos\DotNetFundamental\practice - fibonacci\bin\Debug\net8.0\practice - fibonacci.exe
+C:\Users\noush\source\repos\DotNetFundamental\practice - fibonacci\bin\Debug\net8.0\practice - fibonacci.deps.json
+C:\Users\noush\source\repos\DotNetFundamental\practice - fibonacci\bin\Debug\net8.0\practice - fibonacci.runtimeconfig.json
+C:\Users\noush\source\repos\DotNetFundamental\practice - fibonacci\bin\Debug\net8.0\practice - fibonacci.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice - fibonacci\bin\Debug\net8.0\practice - fibonacci.pdb
+C:\Users\noush\source\repos\DotNetFundamental\practice - fibonacci\obj\Debug\net8.0\practice - fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noush\source\repos\DotNetFundamental\practice - fibonacci\obj\Debug\net8.0\practice - fibonacci.AssemblyInfoInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice - fibonacci\obj\Debug\net8.0\practice - fibonacci.AssemblyInfo.cs
+C:\Users\noush\source\repos\DotNetFundamental\practice - fibonacci\obj\Debug\net8.0\practice - fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice - fibonacci\obj\Debug\net8.0\practice - fibonacci.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice - fibonacci\obj\Debug\net8.0\refint\practice - fibonacci.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice - fibonacci\obj\Debug\net8.0\practice - fibonacci.pdb
+C:\Users\noush\source\repos\DotNetFundamental\practice - fibonacci\obj\Debug\net8.0\practice - fibonacci.genruntimeconfig.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice - fibonacci\obj\Debug\net8.0\ref\practice - fibonacci.dll

@@ -1,0 +1,14 @@
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\bin\Debug\net8.0\practice - fiveDivisible.exe
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\bin\Debug\net8.0\practice - fiveDivisible.deps.json
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\bin\Debug\net8.0\practice - fiveDivisible.runtimeconfig.json
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\bin\Debug\net8.0\practice - fiveDivisible.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\bin\Debug\net8.0\practice - fiveDivisible.pdb
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\practice - fiveDivisible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\practice - fiveDivisible.AssemblyInfoInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\practice - fiveDivisible.AssemblyInfo.cs
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\practice - fiveDivisible.csproj.CoreCompileInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\practice - fiveDivisible.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\refint\practice - fiveDivisible.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\practice - fiveDivisible.pdb
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\practice - fiveDivisible.genruntimeconfig.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\ref\practice - fiveDivisible.dll

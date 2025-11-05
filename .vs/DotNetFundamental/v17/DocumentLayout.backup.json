@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\noush\\source\\repos\\DotNetFundamental\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E24B9C03-E8A1-4CE4-BAAA-C2C74D0AD069}|practice5 - wordGuessingGame\\practice5 - wordGuessingGame.csproj|c:\\users\\noush\\source\\repos\\dotnetfundamental\\practice5 - wordguessinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24B9C03-E8A1-4CE4-BAAA-C2C74D0AD069}|practice5 - wordGuessingGame\\practice5 - wordGuessingGame.csproj|solutionrelative:practice5 - wordguessinggame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noush\\source\\repos\\DotNetFundamental\\practice5 - wordGuessingGame\\Program.cs",
+              "RelativeDocumentMoniker": "practice5 - wordGuessingGame\\Program.cs",
+              "ToolTip": "C:\\Users\\noush\\source\\repos\\DotNetFundamental\\practice5 - wordGuessingGame\\Program.cs*",
+              "RelativeToolTip": "practice5 - wordGuessingGame\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T08:50:44.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

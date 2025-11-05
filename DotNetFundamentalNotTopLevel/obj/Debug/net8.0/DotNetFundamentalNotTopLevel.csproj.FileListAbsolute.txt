@@ -1,0 +1,14 @@
+C:\Users\noush\source\repos\DotNetFundamental\DotNetFundamentalNotTopLevel\bin\Debug\net8.0\DotNetFundamentalNotTopLevel.exe
+C:\Users\noush\source\repos\DotNetFundamental\DotNetFundamentalNotTopLevel\bin\Debug\net8.0\DotNetFundamentalNotTopLevel.deps.json
+C:\Users\noush\source\repos\DotNetFundamental\DotNetFundamentalNotTopLevel\bin\Debug\net8.0\DotNetFundamentalNotTopLevel.runtimeconfig.json
+C:\Users\noush\source\repos\DotNetFundamental\DotNetFundamentalNotTopLevel\bin\Debug\net8.0\DotNetFundamentalNotTopLevel.dll
+C:\Users\noush\source\repos\DotNetFundamental\DotNetFundamentalNotTopLevel\bin\Debug\net8.0\DotNetFundamentalNotTopLevel.pdb
+C:\Users\noush\source\repos\DotNetFundamental\DotNetFundamentalNotTopLevel\obj\Debug\net8.0\DotNetFundamentalNotTopLevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noush\source\repos\DotNetFundamental\DotNetFundamentalNotTopLevel\obj\Debug\net8.0\DotNetFundamentalNotTopLevel.AssemblyInfoInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\DotNetFundamentalNotTopLevel\obj\Debug\net8.0\DotNetFundamentalNotTopLevel.AssemblyInfo.cs
+C:\Users\noush\source\repos\DotNetFundamental\DotNetFundamentalNotTopLevel\obj\Debug\net8.0\DotNetFundamentalNotTopLevel.csproj.CoreCompileInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\DotNetFundamentalNotTopLevel\obj\Debug\net8.0\DotNetFundamentalNotTopLevel.dll
+C:\Users\noush\source\repos\DotNetFundamental\DotNetFundamentalNotTopLevel\obj\Debug\net8.0\refint\DotNetFundamentalNotTopLevel.dll
+C:\Users\noush\source\repos\DotNetFundamental\DotNetFundamentalNotTopLevel\obj\Debug\net8.0\DotNetFundamentalNotTopLevel.pdb
+C:\Users\noush\source\repos\DotNetFundamental\DotNetFundamentalNotTopLevel\obj\Debug\net8.0\DotNetFundamentalNotTopLevel.genruntimeconfig.cache
+C:\Users\noush\source\repos\DotNetFundamental\DotNetFundamentalNotTopLevel\obj\Debug\net8.0\ref\DotNetFundamentalNotTopLevel.dll
