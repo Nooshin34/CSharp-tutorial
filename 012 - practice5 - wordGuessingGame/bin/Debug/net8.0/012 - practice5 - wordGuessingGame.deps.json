@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "012 - practice5 - wordGuessingGame/1.0.0": {
+        "runtime": {
+          "012 - practice5 - wordGuessingGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "012 - practice5 - wordGuessingGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

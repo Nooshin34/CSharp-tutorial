@@ -1,0 +1,15 @@
+C:\Users\noush\source\repos\DotNetFundamental\practice5 - wordGuessingGame\bin\Debug\net8.0\practice5 - wordGuessingGame.exe
+C:\Users\noush\source\repos\DotNetFundamental\practice5 - wordGuessingGame\bin\Debug\net8.0\practice5 - wordGuessingGame.deps.json
+C:\Users\noush\source\repos\DotNetFundamental\practice5 - wordGuessingGame\bin\Debug\net8.0\practice5 - wordGuessingGame.runtimeconfig.json
+C:\Users\noush\source\repos\DotNetFundamental\practice5 - wordGuessingGame\bin\Debug\net8.0\practice5 - wordGuessingGame.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice5 - wordGuessingGame\bin\Debug\net8.0\practice5 - wordGuessingGame.pdb
+C:\Users\noush\source\repos\DotNetFundamental\practice5 - wordGuessingGame\obj\Debug\net8.0\practice5 - wordGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noush\source\repos\DotNetFundamental\practice5 - wordGuessingGame\obj\Debug\net8.0\practice5 - wordGuessingGame.AssemblyInfoInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice5 - wordGuessingGame\obj\Debug\net8.0\practice5 - wordGuessingGame.AssemblyInfo.cs
+C:\Users\noush\source\repos\DotNetFundamental\practice5 - wordGuessingGame\obj\Debug\net8.0\practice5 - wordGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice5 - wordGuessingGame\obj\Debug\net8.0\practice5 - wordGuessingGame.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice5 - wordGuessingGame\obj\Debug\net8.0\refint\practice5 - wordGuessingGame.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice5 - wordGuessingGame\obj\Debug\net8.0\practice5 - wordGuessingGame.pdb
+C:\Users\noush\source\repos\DotNetFundamental\practice5 - wordGuessingGame\obj\Debug\net8.0\practice5 - wordGuessingGame.genruntimeconfig.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice5 - wordGuessingGame\obj\Debug\net8.0\ref\practice5 - wordGuessingGame.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice5 - wordGuessingGame\obj\Debug\net8.0\practice5 - wordGuessingGame.sourcelink.json

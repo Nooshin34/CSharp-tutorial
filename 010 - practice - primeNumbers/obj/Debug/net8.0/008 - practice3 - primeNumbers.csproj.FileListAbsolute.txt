@@ -1,0 +1,15 @@
+C:\Users\noush\source\repos\DotNetFundamental\practice - primeNumbers\bin\Debug\net8.0\008 - practice3 - primeNumbers.exe
+C:\Users\noush\source\repos\DotNetFundamental\practice - primeNumbers\bin\Debug\net8.0\008 - practice3 - primeNumbers.deps.json
+C:\Users\noush\source\repos\DotNetFundamental\practice - primeNumbers\bin\Debug\net8.0\008 - practice3 - primeNumbers.runtimeconfig.json
+C:\Users\noush\source\repos\DotNetFundamental\practice - primeNumbers\bin\Debug\net8.0\008 - practice3 - primeNumbers.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice - primeNumbers\bin\Debug\net8.0\008 - practice3 - primeNumbers.pdb
+C:\Users\noush\source\repos\DotNetFundamental\practice - primeNumbers\obj\Debug\net8.0\008 - practice3 - primeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noush\source\repos\DotNetFundamental\practice - primeNumbers\obj\Debug\net8.0\008 - practice3 - primeNumbers.AssemblyInfoInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice - primeNumbers\obj\Debug\net8.0\008 - practice3 - primeNumbers.AssemblyInfo.cs
+C:\Users\noush\source\repos\DotNetFundamental\practice - primeNumbers\obj\Debug\net8.0\008 - practice3 - primeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice - primeNumbers\obj\Debug\net8.0\008 - practice3 - primeNumbers.sourcelink.json
+C:\Users\noush\source\repos\DotNetFundamental\practice - primeNumbers\obj\Debug\net8.0\008 - practice3 - primeNumbers.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice - primeNumbers\obj\Debug\net8.0\refint\008 - practice3 - primeNumbers.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice - primeNumbers\obj\Debug\net8.0\008 - practice3 - primeNumbers.pdb
+C:\Users\noush\source\repos\DotNetFundamental\practice - primeNumbers\obj\Debug\net8.0\008 - practice3 - primeNumbers.genruntimeconfig.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice - primeNumbers\obj\Debug\net8.0\ref\008 - practice3 - primeNumbers.dll

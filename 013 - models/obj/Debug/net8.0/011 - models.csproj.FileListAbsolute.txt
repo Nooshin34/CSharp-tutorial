@@ -1,0 +1,15 @@
+C:\Users\noush\source\repos\DotNetFundamental\11 - models\bin\Debug\net8.0\011 - models.exe
+C:\Users\noush\source\repos\DotNetFundamental\11 - models\bin\Debug\net8.0\011 - models.deps.json
+C:\Users\noush\source\repos\DotNetFundamental\11 - models\bin\Debug\net8.0\011 - models.runtimeconfig.json
+C:\Users\noush\source\repos\DotNetFundamental\11 - models\bin\Debug\net8.0\011 - models.dll
+C:\Users\noush\source\repos\DotNetFundamental\11 - models\bin\Debug\net8.0\011 - models.pdb
+C:\Users\noush\source\repos\DotNetFundamental\11 - models\obj\Debug\net8.0\011 - models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noush\source\repos\DotNetFundamental\11 - models\obj\Debug\net8.0\011 - models.AssemblyInfoInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\11 - models\obj\Debug\net8.0\011 - models.AssemblyInfo.cs
+C:\Users\noush\source\repos\DotNetFundamental\11 - models\obj\Debug\net8.0\011 - models.csproj.CoreCompileInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\11 - models\obj\Debug\net8.0\011 - models.sourcelink.json
+C:\Users\noush\source\repos\DotNetFundamental\11 - models\obj\Debug\net8.0\011 - models.dll
+C:\Users\noush\source\repos\DotNetFundamental\11 - models\obj\Debug\net8.0\refint\011 - models.dll
+C:\Users\noush\source\repos\DotNetFundamental\11 - models\obj\Debug\net8.0\011 - models.pdb
+C:\Users\noush\source\repos\DotNetFundamental\11 - models\obj\Debug\net8.0\011 - models.genruntimeconfig.cache
+C:\Users\noush\source\repos\DotNetFundamental\11 - models\obj\Debug\net8.0\ref\011 - models.dll

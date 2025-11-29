@@ -1,0 +1,34 @@
+C:\Users\noush\source\repos\DotNetFundamental\012 - firstWindowsForm\bin\Debug\net8.0-windows\014 - firstWindowsForm.exe
+C:\Users\noush\source\repos\DotNetFundamental\012 - firstWindowsForm\bin\Debug\net8.0-windows\014 - firstWindowsForm.deps.json
+C:\Users\noush\source\repos\DotNetFundamental\012 - firstWindowsForm\bin\Debug\net8.0-windows\014 - firstWindowsForm.runtimeconfig.json
+C:\Users\noush\source\repos\DotNetFundamental\012 - firstWindowsForm\bin\Debug\net8.0-windows\014 - firstWindowsForm.dll
+C:\Users\noush\source\repos\DotNetFundamental\012 - firstWindowsForm\bin\Debug\net8.0-windows\014 - firstWindowsForm.pdb
+C:\Users\noush\source\repos\DotNetFundamental\012 - firstWindowsForm\obj\Debug\net8.0-windows\_012___firstWindowsForm.Form1.resources
+C:\Users\noush\source\repos\DotNetFundamental\012 - firstWindowsForm\obj\Debug\net8.0-windows\014 - firstWindowsForm.csproj.GenerateResource.cache
+C:\Users\noush\source\repos\DotNetFundamental\012 - firstWindowsForm\obj\Debug\net8.0-windows\014 - firstWindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noush\source\repos\DotNetFundamental\012 - firstWindowsForm\obj\Debug\net8.0-windows\014 - firstWindowsForm.AssemblyInfoInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\012 - firstWindowsForm\obj\Debug\net8.0-windows\014 - firstWindowsForm.AssemblyInfo.cs
+C:\Users\noush\source\repos\DotNetFundamental\012 - firstWindowsForm\obj\Debug\net8.0-windows\014 - firstWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\012 - firstWindowsForm\obj\Debug\net8.0-windows\014 - firstWindowsForm.sourcelink.json
+C:\Users\noush\source\repos\DotNetFundamental\012 - firstWindowsForm\obj\Debug\net8.0-windows\014 - firstWindowsForm.dll
+C:\Users\noush\source\repos\DotNetFundamental\012 - firstWindowsForm\obj\Debug\net8.0-windows\refint\014 - firstWindowsForm.dll
+C:\Users\noush\source\repos\DotNetFundamental\012 - firstWindowsForm\obj\Debug\net8.0-windows\014 - firstWindowsForm.pdb
+C:\Users\noush\source\repos\DotNetFundamental\012 - firstWindowsForm\obj\Debug\net8.0-windows\014 - firstWindowsForm.genruntimeconfig.cache
+C:\Users\noush\source\repos\DotNetFundamental\012 - firstWindowsForm\obj\Debug\net8.0-windows\ref\014 - firstWindowsForm.dll
+C:\Users\noush\source\repos\DotNetFundamental\014 - firstWindowsForm\obj\Debug\net8.0-windows\014 - firstWindowsForm.csproj.GenerateResource.cache
+C:\Users\noush\source\repos\DotNetFundamental\014 - firstWindowsForm\obj\Debug\net8.0-windows\014 - firstWindowsForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noush\source\repos\DotNetFundamental\014 - firstWindowsForm\obj\Debug\net8.0-windows\014 - firstWindowsForm.AssemblyInfoInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\014 - firstWindowsForm\obj\Debug\net8.0-windows\014 - firstWindowsForm.AssemblyInfo.cs
+C:\Users\noush\source\repos\DotNetFundamental\014 - firstWindowsForm\obj\Debug\net8.0-windows\014 - firstWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\014 - firstWindowsForm\obj\Debug\net8.0-windows\014 - firstWindowsForm.sourcelink.json
+C:\Users\noush\source\repos\DotNetFundamental\014 - firstWindowsForm\obj\Debug\net8.0-windows\014 - firstWindowsForm.dll
+C:\Users\noush\source\repos\DotNetFundamental\014 - firstWindowsForm\obj\Debug\net8.0-windows\refint\014 - firstWindowsForm.dll
+C:\Users\noush\source\repos\DotNetFundamental\014 - firstWindowsForm\obj\Debug\net8.0-windows\014 - firstWindowsForm.pdb
+C:\Users\noush\source\repos\DotNetFundamental\014 - firstWindowsForm\bin\Debug\net8.0-windows\014 - firstWindowsForm.exe
+C:\Users\noush\source\repos\DotNetFundamental\014 - firstWindowsForm\bin\Debug\net8.0-windows\014 - firstWindowsForm.deps.json
+C:\Users\noush\source\repos\DotNetFundamental\014 - firstWindowsForm\bin\Debug\net8.0-windows\014 - firstWindowsForm.runtimeconfig.json
+C:\Users\noush\source\repos\DotNetFundamental\014 - firstWindowsForm\bin\Debug\net8.0-windows\014 - firstWindowsForm.dll
+C:\Users\noush\source\repos\DotNetFundamental\014 - firstWindowsForm\bin\Debug\net8.0-windows\014 - firstWindowsForm.pdb
+C:\Users\noush\source\repos\DotNetFundamental\014 - firstWindowsForm\obj\Debug\net8.0-windows\_014___firstWindowsForm.Form1.resources
+C:\Users\noush\source\repos\DotNetFundamental\014 - firstWindowsForm\obj\Debug\net8.0-windows\014 - firstWindowsForm.genruntimeconfig.cache
+C:\Users\noush\source\repos\DotNetFundamental\014 - firstWindowsForm\obj\Debug\net8.0-windows\ref\014 - firstWindowsForm.dll

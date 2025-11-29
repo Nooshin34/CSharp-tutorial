@@ -1,0 +1,15 @@
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\bin\Debug\net8.0\006 - practice1 - calculator.exe
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\bin\Debug\net8.0\006 - practice1 - calculator.deps.json
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\bin\Debug\net8.0\006 - practice1 - calculator.runtimeconfig.json
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\bin\Debug\net8.0\006 - practice1 - calculator.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\bin\Debug\net8.0\006 - practice1 - calculator.pdb
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\006 - practice1 - calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\006 - practice1 - calculator.AssemblyInfoInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\006 - practice1 - calculator.AssemblyInfo.cs
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\006 - practice1 - calculator.csproj.CoreCompileInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\006 - practice1 - calculator.sourcelink.json
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\006 - practice1 - calculator.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\refint\006 - practice1 - calculator.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\006 - practice1 - calculator.pdb
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\006 - practice1 - calculator.genruntimeconfig.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice - calculator\obj\Debug\net8.0\ref\006 - practice1 - calculator.dll

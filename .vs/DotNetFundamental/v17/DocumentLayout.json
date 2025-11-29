@@ -1,12 +1,57 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\noush\\source\\repos\\DotNetFundamental\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B88EF79-60A6-4A78-8CB8-E75763AF98A7}|014 - firstWindowsForm\\014 - firstWindowsForm.csproj|c:\\users\\noush\\source\\repos\\dotnetfundamental\\014 - firstwindowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B88EF79-60A6-4A78-8CB8-E75763AF98A7}|014 - firstWindowsForm\\014 - firstWindowsForm.csproj|solutionrelative:014 - firstwindowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B88EF79-60A6-4A78-8CB8-E75763AF98A7}|014 - firstWindowsForm\\014 - firstWindowsForm.csproj|c:\\users\\noush\\source\\repos\\dotnetfundamental\\014 - firstwindowsform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B88EF79-60A6-4A78-8CB8-E75763AF98A7}|014 - firstWindowsForm\\014 - firstWindowsForm.csproj|solutionrelative:014 - firstwindowsform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\noush\\source\\repos\\DotNetFundamental\\014 - firstWindowsForm\\Form1.cs",
+              "RelativeDocumentMoniker": "014 - firstWindowsForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\noush\\source\\repos\\DotNetFundamental\\014 - firstWindowsForm\\Form1.cs",
+              "RelativeToolTip": "014 - firstWindowsForm\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:50:49.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noush\\source\\repos\\DotNetFundamental\\014 - firstWindowsForm\\Program.cs",
+              "RelativeDocumentMoniker": "014 - firstWindowsForm\\Program.cs",
+              "ToolTip": "C:\\Users\\noush\\source\\repos\\DotNetFundamental\\014 - firstWindowsForm\\Program.cs",
+              "RelativeToolTip": "014 - firstWindowsForm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-25T17:50:12.038Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

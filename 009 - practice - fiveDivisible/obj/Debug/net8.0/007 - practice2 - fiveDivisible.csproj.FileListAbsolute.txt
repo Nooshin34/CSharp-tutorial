@@ -1,0 +1,15 @@
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\bin\Debug\net8.0\007 - practice2 - fiveDivisible.exe
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\bin\Debug\net8.0\007 - practice2 - fiveDivisible.deps.json
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\bin\Debug\net8.0\007 - practice2 - fiveDivisible.runtimeconfig.json
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\bin\Debug\net8.0\007 - practice2 - fiveDivisible.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\bin\Debug\net8.0\007 - practice2 - fiveDivisible.pdb
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\007 - practice2 - fiveDivisible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\007 - practice2 - fiveDivisible.AssemblyInfoInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\007 - practice2 - fiveDivisible.AssemblyInfo.cs
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\007 - practice2 - fiveDivisible.csproj.CoreCompileInputs.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\007 - practice2 - fiveDivisible.sourcelink.json
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\007 - practice2 - fiveDivisible.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\refint\007 - practice2 - fiveDivisible.dll
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\007 - practice2 - fiveDivisible.pdb
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\007 - practice2 - fiveDivisible.genruntimeconfig.cache
+C:\Users\noush\source\repos\DotNetFundamental\practice - fiveDivisible\obj\Debug\net8.0\ref\007 - practice2 - fiveDivisible.dll

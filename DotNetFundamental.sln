@@ -3,25 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35728.132
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1- write & read", "1- write & read\1- write & read.csproj", "{8A7B7668-9642-410B-9C8D-9FDC3698D09C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001- write & read", "001- write & read\001- write & read.csproj", "{8A7B7668-9642-410B-9C8D-9FDC3698D09C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 - condition", "2 - condition\2 - condition.csproj", "{1E3E8C78-AD96-474E-9C3F-CD3B6562B1E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002 - condition", "002 - condition\002 - condition.csproj", "{1E3E8C78-AD96-474E-9C3F-CD3B6562B1E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 - casting", "3 - casting\3 - casting.csproj", "{05DA1CD6-8142-4C14-91C4-231618AE8EC8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003 - casting", "003 - casting\003 - casting.csproj", "{05DA1CD6-8142-4C14-91C4-231618AE8EC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4 - loops", "4 - loops\4 - loops.csproj", "{F02B4DD7-F081-42C7-A70B-696C1C826FB3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004 - loops", "004 - loops\004 - loops.csproj", "{F02B4DD7-F081-42C7-A70B-696C1C826FB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5 - method", "5 - method\5 - method.csproj", "{1EDA86FC-ED36-43F7-B9B0-4168B67803A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005 - method", "005 - method\005 - method.csproj", "{1EDA86FC-ED36-43F7-B9B0-4168B67803A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice1 - calculator", "practice - calculator\practice1 - calculator.csproj", "{8E0E8693-63BF-4F19-BC23-75552C229C49}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008 - practice1 - calculator", "008 - practice - calculator\008 - practice1 - calculator.csproj", "{8E0E8693-63BF-4F19-BC23-75552C229C49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice2 - fiveDivisible", "practice - fiveDivisible\practice2 - fiveDivisible.csproj", "{001BF42F-07A8-4E70-8472-39533D8B9D20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009 - practice2 - fiveDivisible", "009 - practice - fiveDivisible\009 - practice2 - fiveDivisible.csproj", "{001BF42F-07A8-4E70-8472-39533D8B9D20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice3 - primeNumbers", "practice - primeNumbers\practice3 - primeNumbers.csproj", "{A241DA09-AF4D-4DBA-88AC-134D7C93E8C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010 - practice3 - primeNumbers", "010 - practice - primeNumbers\010 - practice3 - primeNumbers.csproj", "{A241DA09-AF4D-4DBA-88AC-134D7C93E8C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice4 - fibonacci", "practice - fibonacci\practice4 - fibonacci.csproj", "{933F521E-7B7D-4186-BD78-982A6B9E2FBF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011 - practice4 - fibonacci", "011 - practice - fibonacci\011 - practice4 - fibonacci.csproj", "{933F521E-7B7D-4186-BD78-982A6B9E2FBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice5 - wordGuessingGame", "practice5 - wordGuessingGame\practice5 - wordGuessingGame.csproj", "{E24B9C03-E8A1-4CE4-BAAA-C2C74D0AD069}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012 - practice5 - wordGuessingGame", "012 - practice5 - wordGuessingGame\012 - practice5 - wordGuessingGame.csproj", "{E24B9C03-E8A1-4CE4-BAAA-C2C74D0AD069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013 - models", "013 - models\013 - models.csproj", "{C9733966-3B57-45F8-820C-7CF7C716265C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "014 - firstWindowsForm", "014 - firstWindowsForm\014 - firstWindowsForm.csproj", "{9B88EF79-60A6-4A78-8CB8-E75763AF98A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006 - switchCase", "006 - switchCase\006 - switchCase.csproj", "{62B90E8A-77F7-4D1D-A044-C789D070D49E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007 - collections", "007 - collections\007 - collections.csproj", "{4162BBEC-F436-4E2A-920A-FF7F53392AEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +77,22 @@ Global
 		{E24B9C03-E8A1-4CE4-BAAA-C2C74D0AD069}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E24B9C03-E8A1-4CE4-BAAA-C2C74D0AD069}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E24B9C03-E8A1-4CE4-BAAA-C2C74D0AD069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9733966-3B57-45F8-820C-7CF7C716265C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9733966-3B57-45F8-820C-7CF7C716265C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9733966-3B57-45F8-820C-7CF7C716265C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9733966-3B57-45F8-820C-7CF7C716265C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B88EF79-60A6-4A78-8CB8-E75763AF98A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B88EF79-60A6-4A78-8CB8-E75763AF98A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B88EF79-60A6-4A78-8CB8-E75763AF98A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B88EF79-60A6-4A78-8CB8-E75763AF98A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62B90E8A-77F7-4D1D-A044-C789D070D49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B90E8A-77F7-4D1D-A044-C789D070D49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B90E8A-77F7-4D1D-A044-C789D070D49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B90E8A-77F7-4D1D-A044-C789D070D49E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4162BBEC-F436-4E2A-920A-FF7F53392AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4162BBEC-F436-4E2A-920A-FF7F53392AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4162BBEC-F436-4E2A-920A-FF7F53392AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4162BBEC-F436-4E2A-920A-FF7F53392AEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
