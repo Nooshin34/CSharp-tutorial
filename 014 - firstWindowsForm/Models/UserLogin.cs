@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _014___firstWindowsForm.Models
 {
-    internal class UserLogin
+    public class UserLogin
     {
         public string userName { get; set; }
         public string Pass { get; set; }
